@@ -1,0 +1,14 @@
+C:\Users\chris\Documents\GitHub\PCode\PCode\PCode.DataAccess\bin\Debug\net5.0\PCode.DataAccess.deps.json
+C:\Users\chris\Documents\GitHub\PCode\PCode\PCode.DataAccess\bin\Debug\net5.0\PCode.DataAccess.runtimeconfig.json
+C:\Users\chris\Documents\GitHub\PCode\PCode\PCode.DataAccess\bin\Debug\net5.0\PCode.DataAccess.runtimeconfig.dev.json
+C:\Users\chris\Documents\GitHub\PCode\PCode\PCode.DataAccess\bin\Debug\net5.0\PCode.DataAccess.dll
+C:\Users\chris\Documents\GitHub\PCode\PCode\PCode.DataAccess\bin\Debug\net5.0\ref\PCode.DataAccess.dll
+C:\Users\chris\Documents\GitHub\PCode\PCode\PCode.DataAccess\bin\Debug\net5.0\PCode.DataAccess.pdb
+C:\Users\chris\Documents\GitHub\PCode\PCode\PCode.DataAccess\obj\Debug\net5.0\PCode.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Documents\GitHub\PCode\PCode\PCode.DataAccess\obj\Debug\net5.0\PCode.DataAccess.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\GitHub\PCode\PCode\PCode.DataAccess\obj\Debug\net5.0\PCode.DataAccess.AssemblyInfo.cs
+C:\Users\chris\Documents\GitHub\PCode\PCode\PCode.DataAccess\obj\Debug\net5.0\PCode.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\GitHub\PCode\PCode\PCode.DataAccess\obj\Debug\net5.0\PCode.DataAccess.dll
+C:\Users\chris\Documents\GitHub\PCode\PCode\PCode.DataAccess\obj\Debug\net5.0\ref\PCode.DataAccess.dll
+C:\Users\chris\Documents\GitHub\PCode\PCode\PCode.DataAccess\obj\Debug\net5.0\PCode.DataAccess.pdb
+C:\Users\chris\Documents\GitHub\PCode\PCode\PCode.DataAccess\obj\Debug\net5.0\PCode.DataAccess.genruntimeconfig.cache
