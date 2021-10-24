@@ -2,6 +2,7 @@ C:\Users\chris\Documents\GitHub\PCode\PCode\PCode.DTO\bin\Debug\net5.0\PCode.DTO
 C:\Users\chris\Documents\GitHub\PCode\PCode\PCode.DTO\bin\Debug\net5.0\PCode.DTO.dll
 C:\Users\chris\Documents\GitHub\PCode\PCode\PCode.DTO\bin\Debug\net5.0\ref\PCode.DTO.dll
 C:\Users\chris\Documents\GitHub\PCode\PCode\PCode.DTO\bin\Debug\net5.0\PCode.DTO.pdb
+C:\Users\chris\Documents\GitHub\PCode\PCode\PCode.DTO\obj\Debug\net5.0\PCode.DTO.csprojAssemblyReference.cache
 C:\Users\chris\Documents\GitHub\PCode\PCode\PCode.DTO\obj\Debug\net5.0\PCode.DTO.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\chris\Documents\GitHub\PCode\PCode\PCode.DTO\obj\Debug\net5.0\PCode.DTO.AssemblyInfoInputs.cache
 C:\Users\chris\Documents\GitHub\PCode\PCode\PCode.DTO\obj\Debug\net5.0\PCode.DTO.AssemblyInfo.cs

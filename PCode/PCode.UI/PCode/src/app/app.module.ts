@@ -3,22 +3,35 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { ComponentsCreateEditComponent } from './components/components-create-edit/components-create-edit.component';
-import { ComponentListComponent } from './components/component-list/component-list.component';
-import { CustomerCreateEditComponent } from './components/customer-create-edit/customer-create-edit.component';
-import { CustomerListComponent } from './components/customer-list/customer-list.component';
+import { HttpClientModule } from '@angular/common/http';
+
+import { FormsModule } from '@angular/forms';
+import { ReactiveFormsModule } from '@angular/forms';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+
+import {MatInputModule} from '@angular/material/input';
+import {MatSelectModule} from '@angular/material/select';
+import {MatButtonModule} from '@angular/material/button';
+import {MatCheckboxModule} from '@angular/material/checkbox';
+import {MatChipsModule} from '@angular/material/chips';
+
 
 @NgModule({
   declarations: [
     AppComponent,
-    ComponentsCreateEditComponent,
-    ComponentListComponent,
-    CustomerCreateEditComponent,
-    CustomerListComponent
   ],
   imports: [
+    HttpClientModule,
+    FormsModule,
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    BrowserAnimationsModule,
+    ReactiveFormsModule,
+    MatInputModule,
+    MatSelectModule,
+    MatButtonModule,
+    MatCheckboxModule,
+    MatChipsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

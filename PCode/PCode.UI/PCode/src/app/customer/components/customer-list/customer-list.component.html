@@ -1,0 +1,8 @@
+
+<app-customer-create-edit></app-customer-create-edit><br /><br />
+<p>------------------------------------------------------------------------</p>
+<div *ngFor="let customer of customerUpdate">
+    <span>Name: {{customer.firstName}} {{customer.lastName}}</span><br/>
+    <span>Address: {{customer.address}}</span><br/>
+    <span>Age: {{customer.age}}</span><br/><br/>
+</div>
